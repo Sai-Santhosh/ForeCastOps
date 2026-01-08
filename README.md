@@ -185,10 +185,3 @@ If you don’t want to expose API keys, deploy with pre-generated `data/final_ma
 
 ---
 
-## License
-Choose a license that matches your preference (MIT is common for projects like this). Add `LICENSE` to the repo if you plan to make it public.
-
----
-
-## Contact
-If you use this project in an interview loop and want a clean “demo mode” (faster load, cached artifacts, clear narrative), fork and adapt it for your dataset + story.
